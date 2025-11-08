@@ -1,4 +1,4 @@
-# Space Invaders - Java Swing Game
+# 🛸 Space Invaders - Java Swing Game
 
 ## Overview
 This is a simple implementation of the classic arcade game **Space Invaders** built using Java Swing. The player controls a spaceship at the bottom of the screen, shooting bullets to destroy descending waves of alien invaders. The game features progressive difficulty, scoring, and a game over condition when aliens reach the player's level.
