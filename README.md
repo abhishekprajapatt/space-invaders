@@ -14,6 +14,7 @@ Key features:
 
 The game uses colored rectangles for graphics (no external images required) to keep it lightweight and self-contained.
 
+
 ## Screenshots
 
 ### In-Game (Active Play)
