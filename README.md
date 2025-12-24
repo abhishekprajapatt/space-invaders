@@ -43,6 +43,7 @@ The game uses colored rectangles for graphics (no external images required) to k
    ```
 4. The game window (512x512 pixels) will open automatically.
 
+
 ## Controls
 - **Left Arrow (←)**: Move ship left.
 - **Right Arrow (→)**: Move ship right.
