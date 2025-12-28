@@ -43,13 +43,11 @@ The game uses colored rectangles for graphics (no external images required) to k
    ```
 4. The game window (512x512 pixels) will open automatically.
 
-
 ## Controls
 - **Left Arrow (←)**: Move ship left.
 - **Right Arrow (→)**: Move ship right.
 - **Spacebar**: Shoot a bullet.
 - **Any Key**: Restart the game after "Game Over".
-
 
 ## Game Mechanics
 - **Aliens**: Start with 2 rows and 3 columns of aliens. They move left/right and descend when hitting the screen edges. Destroy all to advance to the next level (more aliens added).
