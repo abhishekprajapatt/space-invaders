@@ -21,7 +21,7 @@ The game uses colored rectangles for graphics (no external images required) to k
 ![In-Game Screenshot](./assets/start-game.png)
 *(Shows the player ship (cyan rectangle) at the bottom, green alien rectangles moving across the top, white bullets firing, and current score displayed.)*
 
-### Game Over
+### 👾 Game Over
 ![Game Over Screenshot](./assets/game-over.png)
 *(Displays "Game Over: 7600" score with remaining aliens visible. Press any key to restart.)*
 
